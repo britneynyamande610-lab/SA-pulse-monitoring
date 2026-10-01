@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\britn\\Downloads\\Final281_Project_Prg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6FEF78-6197-4686-B4DE-E2FE586AF337}|Final281_Project_Prg.csproj|c:\\users\\britn\\downloads\\final281_project_prg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6FEF78-6197-4686-B4DE-E2FE586AF337}|Final281_Project_Prg.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6FEF78-6197-4686-B4DE-E2FE586AF337}|Final281_Project_Prg.csproj|c:\\users\\britn\\downloads\\final281_project_prg\\readme.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2A6FEF78-6197-4686-B4DE-E2FE586AF337}|Final281_Project_Prg.csproj|solutionrelative:readme.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\britn\\Downloads\\Final281_Project_Prg\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\britn\\Downloads\\Final281_Project_Prg\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-08-18T20:25:08.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\britn\\Downloads\\Final281_Project_Prg\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\britn\\Downloads\\Final281_Project_Prg\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAqwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:48:48.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

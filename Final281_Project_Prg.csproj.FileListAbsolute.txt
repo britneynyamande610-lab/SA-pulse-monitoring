@@ -1,0 +1,8 @@
+C:\Users\britn\Downloads\Final281_Project_Prg\obj\Debug\Final281_Project_Prg.csproj.AssemblyReference.cache
+C:\Users\britn\Downloads\Final281_Project_Prg\obj\Debug\Final281_Project_Prg.csproj.CoreCompileInputs.cache
+C:\Users\britn\Downloads\Final281_Project_Prg\bin\Debug\Final281_Project_Prg.exe.config
+C:\Users\britn\Downloads\Final281_Project_Prg\bin\Debug\Final281_Project_Prg.exe
+C:\Users\britn\Downloads\Final281_Project_Prg\bin\Debug\Final281_Project_Prg.pdb
+C:\Users\britn\Downloads\Final281_Project_Prg\obj\Debug\Final281_Project_Prg.exe
+C:\Users\britn\Downloads\Final281_Project_Prg\obj\Debug\Final281_Project_Prg.pdb
+C:\Users\britn\Downloads\Final281_Project_Prg\obj\Debug\Final281_Project_Prg.exe.config
